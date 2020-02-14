@@ -66,7 +66,7 @@ class App extends Component {
                     key={c.id} 
                     id={c.id} 
                     image={c.image} 
-                    name={c.name} 
+                    name={c.NAME} 
                     birthday={c.birthday} 
                     gender={c.gender} 
                     job={c.job}
