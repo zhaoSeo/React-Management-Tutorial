@@ -2,6 +2,8 @@
 본 프로젝트는 React 강의를 클론 코딩해서 만들어진 고객 관리 시스템입니다.
 thanks for 나동빈
 
+![스크린샷 2020-02-16 오전 12 09 59](https://user-images.githubusercontent.com/33479927/74590381-2e71bb80-5051-11ea-8188-f25d7d3207cd.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
